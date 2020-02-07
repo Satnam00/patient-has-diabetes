@@ -65,3 +65,4 @@ b)	Scatter charts between relevant variables to analyse the relationships
 c)	Histogram/frequency charts to analyse the distribution of the data
 d)	Heatmap of correlation analysis among the relevant variables
 e)	Create bins of Age values – 20-25, 25-30, 30-35 etc. and analyse different variables for these age brackets using a bubble chart. 
+
